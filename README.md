@@ -86,11 +86,6 @@ Offline-first recipe manager using Hive NoSQL for full CRUD, Arabic/English loca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mmbayoumitaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mmbayoumitaha&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=mmbayoumitaha&theme=tokyonight&hide_border=true" />
 </p>
 
