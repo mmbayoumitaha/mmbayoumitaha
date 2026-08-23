@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Bayoumi 👋</h1>
-<h3 align="center">Flutter Developer | Clean Architecture • BLoC/Riverpod • Firebase</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mm-bayoumi-taha" target="_blank">
