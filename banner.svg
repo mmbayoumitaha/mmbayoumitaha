@@ -1,67 +1,38 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1e2749"/>
-      <stop offset="100%" stop-color="#0ea5e9"/>
+      <stop offset="0%" stop-color="#fafafa"/>
+      <stop offset="100%" stop-color="#f0f0f0"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#818cf8"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="85%" cy="30%" r="60%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
   </defs>
 
+  <!-- Background -->
   <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#glow)"/>
 
-  <!-- decorative dot grid -->
-  <g fill="#38bdf8" opacity="0.25">
-    <circle cx="1080" cy="60" r="3"/>
-    <circle cx="1110" cy="60" r="3"/>
-    <circle cx="1140" cy="60" r="3"/>
-    <circle cx="1080" cy="90" r="3"/>
-    <circle cx="1110" cy="90" r="3"/>
-    <circle cx="1140" cy="90" r="3"/>
-    <circle cx="1080" cy="120" r="3"/>
-    <circle cx="1110" cy="120" r="3"/>
-    <circle cx="1140" cy="120" r="3"/>
-  </g>
+  <!-- Subtle top line accent -->
+  <rect x="0" y="0" width="1200" height="3" fill="#333"/>
 
-  <!-- floating code-tag icon -->
-  <g transform="translate(950,190)" opacity="0.9">
-    <text x="0" y="0" font-family="'JetBrains Mono', Consolas, monospace" font-size="46" fill="#38bdf8" opacity="0.5">&lt;/&gt;</text>
-  </g>
+  <!-- Left vertical accent line -->
+  <rect x="80" y="85" width="3" height="130" fill="#333"/>
 
-  <!-- left accent bar -->
-  <rect x="70" y="90" width="6" height="120" rx="3" fill="url(#accent)"/>
-
-  <!-- name -->
-  <text x="100" y="140" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#f8fafc">
+  <!-- Name -->
+  <text x="100" y="135" font-family="'Georgia', 'Times New Roman', serif" font-size="48" font-weight="400" fill="#1a1a1a" letter-spacing="-1">
     Mohamed Bayoumi
   </text>
 
-  <!-- role -->
-  <text x="100" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" fill="#7dd3fc">
-    Flutter Developer
+  <!-- Role -->
+  <text x="103" y="170" font-family="'SF Mono', 'Consolas', 'Monaco', monospace" font-size="16" fill="#666" letter-spacing="3">
+    FLUTTER DEVELOPER
   </text>
 
+  <!-- Minimal dots decoration -->
+  <circle cx="103" cy="205" r="3" fill="#333"/>
+  <circle cx="118" cy="205" r="3" fill="#999"/>
+  <circle cx="133" cy="205" r="3" fill="#ccc"/>
 
-  <!-- badges row -->
-  <g font-family="Consolas, monospace" font-size="13" fill="#0f172a">
-    <rect x="100" y="235" width="76" height="26" rx="13" fill="#38bdf8"/>
-    <text x="114" y="252">Dart</text>
+  <!-- Subtle right side decoration — brackets -->
+  <text x="980" y="170" font-family="'SF Mono', 'Consolas', monospace" font-size="72" fill="#e8e8e8" font-weight="300">{ }</text>
 
-    <rect x="186" y="235" width="90" height="26" rx="13" fill="#818cf8"/>
-    <text x="199" y="252">Flutter</text>
-
-    <rect x="286" y="235" width="100" height="26" rx="13" fill="#facc15"/>
-    <text x="299" y="252">Firebase</text>
-
-    <rect x="396" y="235" width="70" height="26" rx="13" fill="#f472b6"/>
-    <text x="409" y="252">BLoC</text>
-  </g>
+  <!-- Bottom subtle line -->
+  <rect x="80" y="270" width="200" height="1" fill="#ddd"/>
 </svg>

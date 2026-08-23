@@ -11,42 +11,44 @@
   </a>
 </p>
 
-<p align="center">
-  Flutter developer with 2+ years of hands-on experience building production-ready cross-platform apps
-  (Android, iOS, Web, Desktop). Specialized in <b>Clean Architecture</b>, <b>BLoC/Riverpod</b>, and
-  <b>Firebase</b>. Currently pursuing a B.Sc. in Computer Science at Ain Shams University (Expected 2027).
-</p>
+## Hey there 
+
+I'm Mohamed — a Flutter developer from Cairo who loves turning ideas into smooth, cross-platform apps. I've been building with Flutter for about 2 years now, and I genuinely enjoy the whole process: from figuring out the right architecture to polishing that last animation.
+
+I'm a CS student at Ain Shams University (graduating 2027), and when I'm not studying, I'm usually deep in some Flutter project trying out a new state management approach or playing around with Firebase.
 
 ---
 
-### 🚀 Currently
+### What I'm up to right now
 
-- 💼 Flutter Developer Trainee @ **ITIDA + Gigs** — Ministry of Communications and IT (national freelancing initiative)
-- 🎓 Completed the **ITI Flutter Winter Training Program**
-- 🌱 Building **Mohsens Tracker** — a Flutter + Firebase app for student committee management
+- 🛠️ Building **Mohsens Tracker** — a student committee management app with Flutter + Firebase
+- 💼 Flutter trainee through the **ITIDA + Gigs** program (Ministry of Communications & IT)
+- 🎓 Just wrapped up the **ITI Flutter Winter Training Program**
 
 ---
 
-### 🛠️ Tech Stack
+### Things I work with
 
-**Languages**
+**Languages & Frameworks**
+
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**Mobile & Architecture**
+**State Management & Architecture**
+
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-4285F4?style=flat-square" />
   <img src="https://img.shields.io/badge/Riverpod-1E88E5?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean_Architecture-6E4AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-333333?style=flat-square" />
 </p>
 
-**Backend & Storage**
+**Backend & Databases**
+
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -55,7 +57,8 @@
   <img src="https://img.shields.io/badge/Hive-FFB300?style=flat-square" />
 </p>
 
-**Tools**
+**Tools I use daily**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -65,21 +68,22 @@
 
 ---
 
-### 📌 Featured Projects
+### Some projects I've built
 
-#### 🏥 [MediFlow Pro — Smart Clinic Manager](https://github.com/mmbayoumitaha)
-`Flutter` `Clean Architecture` `Riverpod` `Firebase` `FCM` `GoRouter` `Material 3`
-Production-ready cross-platform clinic manager with 3 role-based portals (Patient/Doctor/Admin) across 15+ screens, offline-first demo mode, and an fl_chart analytics dashboard.
+**🏥 MediFlow Pro — Smart Clinic Manager**
+`Flutter` `Clean Architecture` `Riverpod` `Firebase` `GoRouter` `Material 3`
 
-#### 🛒 [E-Commerce Mobile Application](https://github.com/mmbayoumitaha)
+A full clinic management app with 3 separate portals (Patient, Doctor, Admin). Built it with Clean Architecture and Riverpod, has 15+ screens, push notifications, an analytics dashboard with fl_chart, and an offline demo mode so you can try everything without signing up.
+
+**🛒 E-Commerce App**
 `Flutter` `Cross-Platform`
-Feature-rich e-commerce app with product listing, cart management, and order tracking on Android and iOS.
 
-#### 📖 [Recipe App — Offline-First CRUD](https://github.com/mmbayoumitaha)
-`Flutter` `BLoC` `Hive` `Image Picker` `Lottie`
-Offline-first recipe manager using Hive NoSQL for full CRUD, Arabic/English localization, and BLoC to decouple UI from business logic.
+A mobile shopping app with product browsing, cart, and order tracking — works on both Android and iOS.
 
-> 💡 Update the links above once each repo is public so they point directly to the project pages.
+**📖 Recipe App**
+`Flutter` `BLoC` `Hive` `Lottie`
+
+An offline-first recipe manager that stores everything locally with Hive. Supports Arabic & English, has smooth Lottie animations, and uses BLoC to keep things clean under the hood.
 
 ---
 
@@ -93,10 +97,12 @@ Offline-first recipe manager using Hive NoSQL for full CRUD, Arabic/English loca
 
 ### 🎓 Education
 
-**B.Sc. Computer Science** — Ain Shams University, Faculty of Science (Expected August 2027)
+**B.Sc. Computer Science** — Ain Shams University, Faculty of Science *(Expected 2027)*
+
+CS50 certified (Harvard/edX) — which is where I really fell in love with problem solving.
 
 ---
 
 <p align="center">
-  <i>Open to freelance gigs, internships, and collaborative Flutter projects.</i>
+  I'm always open to interesting projects and collaborations — feel free to reach out!
 </p>
