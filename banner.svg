@@ -31,8 +31,7 @@
   <circle cx="133" cy="205" r="3" fill="#ccc"/>
 
   <!-- Subtle right side decoration — brackets -->
-  <text x="980" y="170" font-family="'SF Mono', 'Consolas', monospace" font-size="72" fill="#e8e8e8" font-weight="600">{ }</text>
-
+<text x="980" y="170" font-family="'SF Mono', 'Consolas', monospace" font-size="72" fill="#2d2d2d" font-weight="600">{ }</text>
   <!-- Bottom subtle line -->
   <rect x="80" y="270" width="200" height="1" fill="#ddd"/>
 </svg>
