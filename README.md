@@ -21,6 +21,7 @@ I'm a CS student at Ain Shams University (graduating 2027), and when I'm not stu
 
 ### What I'm up to right now
 
+-  Building **Yaleeq** — a virtual try on with local open source model
 - 🛠️ Building **Mohsens Tracker** — a student committee management app with Flutter + Firebase
 - 💼 Flutter trainee through the **ITIDA + Gigs** program (Ministry of Communications & IT)
 - 🎓 Just wrapped up the **ITI Flutter Winter Training Program**
